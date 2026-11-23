@@ -12,8 +12,8 @@ github.com/golang/snappy v1.0.0/go.mod h1:/XxbfmMg8lxefKM7IXC3fBNl/7bRcc72aCRzEW
 github.com/google/go-cmp v0.7.0 h1:wk8382ETsv4JYUZwIsn6YpYiWiBsYLSJiTsyBybVuN8=
 github.com/google/go-cmp v0.7.0/go.mod h1:pXiqmnSA92OHEEa9HXL2W4E7lf9JzCmGVUdgjX3N/iU=
 github.com/google/gofuzz v1.0.0/go.mod h1:dBl0BpW6vV/+mYPU4Po3pmUjxk6FQPldtuIdl/M65Eg=
-github.com/gospider007/cmd v0.0.0-20261123061643-cb7376f9c9f7 h1:jlJCl7xSMWmdPm9VdV468ZGFqCJEZccWxLWehLenBSA=
-github.com/gospider007/cmd v0.0.0-20261123061643-cb7376f9c9f7/go.mod h1:o0fe2zvfOIO0NTXcFn62iTu+z1x/xRRPPT62fFH4JXQ=
+github.com/gospider007/cmd v0.0.0-20261123061728-b69103e1fe1a h1:K7VfLCvzyGNfaYEJHVoWM/Zb828nEJGyA/zhowE9iDY=
+github.com/gospider007/cmd v0.0.0-20261123061728-b69103e1fe1a/go.mod h1:+zqK5DlUcLtzxmLeRZTAYmcczh7kAmnJ9egpScni8Ow=
 github.com/gospider007/conf v0.0.0-20261123061641-3d2613b7aafd h1:87vQRUvvMxcha47icqcY+WDZY6XYwMA3ox/8xDeCjxg=
 github.com/gospider007/conf v0.0.0-20261123061641-3d2613b7aafd/go.mod h1:AEvfVy3YJt780NwGMPRGy9JKzMm6zx0gwfKjPx5jEtg=
 github.com/gospider007/gson v0.0.0-20261123061643-ef4204d96306 h1:RKdiUnGFWLPiyZyXrjPxF3qfMU+zsiZVI2ti9wVzvDY=

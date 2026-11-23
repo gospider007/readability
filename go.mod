@@ -3,7 +3,7 @@ module gitee.com/baixudong/readability
 go 1.27.0
 
 require (
-	github.com/gospider007/cmd v0.0.0-20261123061643-cb7376f9c9f7
+	github.com/gospider007/cmd v0.0.0-20261123061728-b69103e1fe1a
 	github.com/gospider007/gson v0.0.0-20261123061643-ef4204d96306
 )
 

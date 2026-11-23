@@ -3,15 +3,15 @@ module gitee.com/baixudong/readability
 go 1.27.0
 
 require (
-	github.com/gospider007/cmd v0.0.0-20261116005624-f79f9b936d5a
-	github.com/gospider007/gson v0.0.0-20261116005556-ace60bb7388c
+	github.com/gospider007/cmd v0.0.0-20261123061643-cb7376f9c9f7
+	github.com/gospider007/gson v0.0.0-20261123061643-ef4204d96306
 )
 
 require (
 	github.com/andybalholm/brotli v1.3.0 // indirect
 	github.com/creack/pty v1.1.24 // indirect
 	github.com/golang/snappy v1.0.0 // indirect
-	github.com/gospider007/conf v0.0.0-20261116005555-27df96227555 // indirect
+	github.com/gospider007/conf v0.0.0-20261123061641-3d2613b7aafd // indirect
 	github.com/gospider007/kinds v0.0.0-20260824054539-a612e386b5ac // indirect
 	github.com/gospider007/re v0.0.0-20260824054539-32823144d328 // indirect
 	github.com/gospider007/tools v0.0.0-20261123060518-0588e63b1fa6 // indirect

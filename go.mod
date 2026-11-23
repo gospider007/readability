@@ -1,47 +1,35 @@
 module gitee.com/baixudong/readability
 
 go 1.27.0
+
 require (
-	github.com/gospider007/cmd v0.0.0-20241216141652-cc0f439cbebc
-	github.com/gospider007/gson v0.0.0-20241216122450-fb66d0ba2a07
+	github.com/gospider007/cmd v0.0.0-20261116005624-f79f9b936d5a
+	github.com/gospider007/gson v0.0.0-20261116005556-ace60bb7388c
 )
 
 require (
-	github.com/STARRY-S/zip v0.2.3 // indirect
-	github.com/andybalholm/brotli v1.1.1 // indirect
-	github.com/bodgit/plumbing v1.3.0 // indirect
-	github.com/bodgit/sevenzip v1.6.0 // indirect
-	github.com/bodgit/windows v1.0.1 // indirect
-	github.com/davecgh/go-spew v1.1.2-0.20180830191138-d8f796af33cc // indirect
-	github.com/dsnet/compress v0.0.2-0.20230904184137-39efe44ab707 // indirect
-	github.com/google/go-cmp v0.7.0 // indirect
-	github.com/gospider007/conf v0.0.0-20231215085618-d6cf3c479074 // indirect
-	github.com/gospider007/kinds v0.0.0-20240929092451-8f867acde255 // indirect
-	github.com/gospider007/re v0.0.0-20241216142712-efbef8d55ea2 // indirect
-	github.com/gospider007/tools v0.0.0-20241216141313-4a832f55a843 // indirect
-	github.com/hashicorp/errwrap v1.1.0 // indirect
-	github.com/hashicorp/go-multierror v1.1.1 // indirect
-	github.com/hashicorp/golang-lru/v2 v2.0.7 // indirect
+	github.com/andybalholm/brotli v1.3.0 // indirect
+	github.com/creack/pty v1.1.24 // indirect
+	github.com/golang/snappy v1.0.0 // indirect
+	github.com/gospider007/conf v0.0.0-20261116005555-27df96227555 // indirect
+	github.com/gospider007/kinds v0.0.0-20260824054539-a612e386b5ac // indirect
+	github.com/gospider007/re v0.0.0-20260824054539-32823144d328 // indirect
+	github.com/gospider007/tools v0.0.0-20261123060518-0588e63b1fa6 // indirect
 	github.com/json-iterator/go v1.1.12 // indirect
-	github.com/klauspost/compress v1.18.0 // indirect
-	github.com/klauspost/pgzip v1.2.6 // indirect
-	github.com/mholt/archives v0.1.1 // indirect
-	github.com/minio/minlz v1.0.0 // indirect
+	github.com/klauspost/compress v1.20.5 // indirect
+	github.com/klauspost/cpuid/v2 v2.4.2 // indirect
+	github.com/kr/pty v1.1.8 // indirect
+	github.com/minio/minlz v1.3.0 // indirect
 	github.com/modern-go/concurrent v0.0.0-20180306012644-bacd9c7ef1dd // indirect
-	github.com/modern-go/reflect2 v1.0.2 // indirect
-	github.com/nwaples/rardecode/v2 v2.1.1 // indirect
-	github.com/pierrec/lz4/v4 v4.1.22 // indirect
-	github.com/pmezard/go-difflib v1.0.1-0.20181226105442-5d4384ee4fb2 // indirect
-	github.com/sorairolake/lzip-go v0.3.7 // indirect
-	github.com/therootcompany/xz v1.0.1 // indirect
-	github.com/tidwall/gjson v1.18.0 // indirect
-	github.com/tidwall/match v1.1.1 // indirect
-	github.com/tidwall/pretty v1.2.1 // indirect
-	github.com/tidwall/sjson v1.2.5 // indirect
-	github.com/ulikunitz/xz v0.5.12 // indirect
-	go.mongodb.org/mongo-driver v1.17.3 // indirect
-	go4.org v0.0.0-20230225012048-214862532bf5 // indirect
-	golang.org/x/image v0.26.0 // indirect
-	golang.org/x/net v0.39.0 // indirect
-	golang.org/x/text v0.24.0 // indirect
+	github.com/modern-go/reflect2 v1.0.3-0.20250322232337-35a7c28c31ee // indirect
+	github.com/tidwall/gjson v1.20.6 // indirect
+	github.com/tidwall/match v1.2.0 // indirect
+	github.com/tidwall/pretty v1.3.1 // indirect
+	github.com/tidwall/sjson v1.2.11 // indirect
+	github.com/zeebo/xxh3 v1.1.1-0.20260908150653-f7225998cebf // indirect
+	go.mongodb.org/mongo-driver/v2 v2.10.1 // indirect
+	golang.org/x/image v0.48.0 // indirect
+	golang.org/x/net v0.63.0 // indirect
+	golang.org/x/sys v0.50.0 // indirect
+	golang.org/x/text v0.44.0 // indirect
 )
